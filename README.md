@@ -37,7 +37,7 @@ Pull Requests are welcome. Since this is a demo! Have fun exploring
 [🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-BackgroundChanger)
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-BackgroundChanger.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-BackgroundChanger/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Robofriends?style=for-the-badge)](https://github.com/S-ayanide/Robofriends/blob/master/LICENSE)
 ```Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
