@@ -54,4 +54,4 @@ limitations under the License.
 ```
 
 ## Getting Started
-For help getting started with Flutter, view our online [documentation](https://flutter.dev/docs).
+For help getting started with React, view our online [documentation](https://reactjs.org).
