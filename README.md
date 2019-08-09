@@ -34,7 +34,7 @@ Pull Requests are welcome. Since this is a demo! Have fun exploring
 ## Developed & Maintained by
 [Sayan Mondal](https://github.com/S-ayanide) 
 [📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-BackgroundChanger)
+[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Robofriends?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FRobofriends)
 
 ## License 
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Robofriends?style=for-the-badge)](https://github.com/S-ayanide/Robofriends/blob/master/LICENSE)
