@@ -27,10 +27,7 @@ Running this is as simple as it gets. Follow this steps
      
 ## Pull Request
 
-Pull Requests are welcome. Please follow these rules for the ease of understanding:
-* Make sure to check for available issues before raising one
-* Give me a maximum of 24-48 hours to respond
-* Have proper documentation on the parts you are changing/adding
+Pull Requests are welcome. Since this is a demo! Have fun exploring
 
 #### Feel free to contribute
 
