@@ -9,18 +9,6 @@ A basic React project which searches for Robots and filters them.
 ## Short Description
 This is a demo of how people can use React js to make everything cooler.📳✨
 
-## Screenshots
-<img src="images/Capture1.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture2.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/69yJSOokO0H5n23YpM/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="164"/>
-     
 ## NOTE:
 This project is subject to change by the developer and is still in development
 
@@ -28,10 +16,13 @@ This project is subject to change by the developer and is still in development
 Running this is as simple as it gets. Follow this steps
 1. Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
 2. Navigate to the project folder where you have cloned this repo.
-3. Open an emulator or plug in a real device
-4. Type the following command in the terminal 
+3. Type the following command in the terminal 
      ```
-     flutter run
+     npm start
+     ```
+   or if you are a yarn user then
+     ```
+     yarn start
      ```
      
 ## Pull Request
