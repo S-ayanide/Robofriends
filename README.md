@@ -1,4 +1,4 @@
-# Background Generator
+# RoboFriends
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-BackgroundChanger.svg)](https://github.com/S-ayanide/Flutter-BackgroundChanger/issues)
 [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://github.com/S-ayanide/Flutter-BackgroundChanger/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://github.com/S-ayanide/Flutter-BackgroundChanger/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-BackgroundChanger.svg?style=plastic)](https://github.com/S-ayanide/Flutter-BackgroundChanger/blob/master/LICENSE)
@@ -7,7 +7,7 @@ A basic Flutter project which changes background color as well as button color u
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
-This Flutter app changes the color of backgroung when you click on the "Change Me" button.It also changes the color of the button.📳✨
+This is a demo of how people can use React js to make everything cooler.📳✨
 
 ## Screenshots
 <img src="images/Capture1.PNG"
