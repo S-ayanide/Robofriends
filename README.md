@@ -1,68 +1,69 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Background Generator
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-BackgroundChanger.svg)](https://github.com/S-ayanide/Flutter-BackgroundChanger/issues)
+[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://github.com/S-ayanide/Flutter-BackgroundChanger/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://github.com/S-ayanide/Flutter-BackgroundChanger/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-BackgroundChanger.svg?style=plastic)](https://github.com/S-ayanide/Flutter-BackgroundChanger/blob/master/LICENSE)
 
-## Available Scripts
+A basic Flutter project which changes background color as well as button color upcon clicking.
+### 👉 If you like this repo then please give it a ⭐️
 
-In the project directory, you can run:
+## Short Description
+This Flutter app changes the color of backgroung when you click on the "Change Me" button.It also changes the color of the button.📳✨
 
-### `npm start`
+## Screenshots
+<img src="images/Capture1.PNG"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="images/Capture2.PNG"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="https://media.giphy.com/media/69yJSOokO0H5n23YpM/200w_d.gif"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="164"/>
+     
+## NOTE:
+This project is subject to change by the developer and is still in development
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## How to run this
+Running this is as simple as it gets. Follow this steps
+1. Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
+2. Navigate to the project folder where you have cloned this repo.
+3. Open an emulator or plug in a real device
+4. Type the following command in the terminal 
+     ```
+     flutter run
+     ```
+     
+## Pull Request
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Pull Requests are welcome. Please follow these rules for the ease of understanding:
+* Make sure to check for available issues before raising one
+* Give me a maximum of 24-48 hours to respond
+* Have proper documentation on the parts you are changing/adding
 
-### `npm test`
+#### Feel free to contribute
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Developed & Maintained by
+[Sayan Mondal](https://github.com/S-ayanide) 
+[📷 Insta](https://www.instagram.com/s_ayanide/)
+[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-BackgroundChanger)
 
-### `npm run build`
+## License 
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-BackgroundChanger.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-BackgroundChanger/blob/master/LICENSE)
+```Copyright 2019 Sayan Mondal
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+    http://www.apache.org/licenses/LICENSE-2.0
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Getting Started
+For help getting started with Flutter, view our online [documentation](https://flutter.dev/docs).
