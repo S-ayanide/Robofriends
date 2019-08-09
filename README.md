@@ -3,7 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://github.com/S-ayanide/Flutter-BackgroundChanger/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-BackgroundChanger.svg?style=social)](https://github.com/S-ayanide/Flutter-BackgroundChanger/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-BackgroundChanger.svg?style=plastic)](https://github.com/S-ayanide/Flutter-BackgroundChanger/blob/master/LICENSE)
 
-A basic Flutter project which changes background color as well as button color upcon clicking.
+A basic React project which searches for Robots and filters them.
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
